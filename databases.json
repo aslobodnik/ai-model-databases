@@ -1,0 +1,95 @@
+{
+  "$schema": "./schema.json",
+  "version": "1.0.0",
+  "updated": "2026-05-22",
+  "databases": [
+    {
+      "name": "Models.dev",
+      "url": "https://models.dev/",
+      "source": "https://github.com/sst/models.dev",
+      "form": "web",
+      "description": "Community-contributed database of AI model information."
+    },
+    {
+      "name": "Helicone LLM Cost",
+      "url": "https://www.helicone.ai/llm-cost",
+      "form": "web",
+      "description": "Cost-per-token comparison across providers."
+    },
+    {
+      "name": "PricePerToken",
+      "url": "https://pricepertoken.com/",
+      "form": "web",
+      "description": "Pricing reference for LLM API providers."
+    },
+    {
+      "name": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/api-reference",
+      "form": "web",
+      "description": "Benchmarks, pricing, and capability comparisons."
+    },
+    {
+      "name": "LiteLLM model catalog",
+      "url": "https://docs.litellm.ai/docs/providers",
+      "source": "https://github.com/BerriAI/litellm",
+      "form": "library",
+      "language": "python",
+      "description": "Provider/model registry shipped with the LiteLLM proxy."
+    },
+    {
+      "name": "simonw/llm-prices",
+      "url": "https://github.com/simonw/llm-prices",
+      "form": "repo",
+      "description": "Pricing data and a static HTML view."
+    },
+    {
+      "name": "assistant-ui/modelpedia",
+      "url": "https://github.com/assistant-ui/modelpedia",
+      "form": "repo",
+      "description": "Model directory used by the assistant-ui project."
+    },
+    {
+      "name": "pydantic/genai-prices",
+      "url": "https://github.com/pydantic/genai-prices",
+      "form": "library",
+      "language": "python",
+      "description": "Pricing data consumed by pydantic-ai."
+    },
+    {
+      "name": "Portkey-AI/models",
+      "url": "https://github.com/Portkey-AI/models",
+      "form": "repo",
+      "description": "Model catalog maintained by Portkey."
+    },
+    {
+      "name": "truefoundry/models",
+      "url": "https://github.com/truefoundry/models",
+      "form": "repo",
+      "description": "Model catalog maintained by TrueFoundry."
+    },
+    {
+      "name": "agentstation/starmap",
+      "url": "https://github.com/agentstation/starmap",
+      "form": "repo",
+      "description": "Model and provider registry from Agentstation."
+    },
+    {
+      "name": "dcSpark/ai-model-catalog",
+      "url": "https://github.com/dcSpark/ai-model-catalog",
+      "form": "repo",
+      "description": "Catalog of AI models maintained by dcSpark."
+    },
+    {
+      "name": "mitkury/aimodels",
+      "url": "https://github.com/mitkury/aimodels",
+      "form": "repo",
+      "description": "JS-friendly model catalog."
+    },
+    {
+      "name": "nuxdie/ai-pricing",
+      "url": "https://github.com/nuxdie/ai-pricing",
+      "form": "repo",
+      "description": "Pricing tracker for AI APIs."
+    }
+  ]
+}
