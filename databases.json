@@ -11,6 +11,12 @@
       "description": "Community-contributed database of AI model information."
     },
     {
+      "name": "AIHOT API Price Comparison",
+      "url": "https://aihot.news/leaderboard/prices",
+      "form": "web",
+      "description": "Chinese-language API pricing by model, including input, output, and cache-hit rates."
+    },
+    {
       "name": "Helicone LLM Cost",
       "url": "https://www.helicone.ai/llm-cost",
       "form": "web",
